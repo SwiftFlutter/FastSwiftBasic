@@ -27,6 +27,7 @@ enum Member: String {
 enum Menu {
     case pasta(Int)
     case pizza
+    
     case steak(String)
 }
 
